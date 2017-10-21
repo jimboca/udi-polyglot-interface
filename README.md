@@ -19,7 +19,7 @@ The module is updated in Pypy (Python's package interface Pip) on a regular basi
 
 ```
 # Install the Polyglot interface
-sudo pip install polyglotinterface
+sudo pip install polyinterface
 ```
 
 ### NodeServer .env Addition
